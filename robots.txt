@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vibevideobench.github.io/sitemap.xml
